@@ -45,3 +45,7 @@ _This algorithm uses a finite state machine approach to validate the number base
 - Time Complexity: O(N), where N is the length of the input string. The algorithm iterates through each character of the string once.
 
 - Space Complexity: O(1). The algorithm uses a constant amount of space to store the state and flag variables.
+
+### Image
+
+![ValidNumber](validnumber.jpeg)
