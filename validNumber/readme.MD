@@ -1,10 +1,10 @@
 ### Problem Statement
 
-A valid number can be split up into these components (in order):
+- A valid number can be split up into these components (in order):
 
-A decimal number or an integer.
+- A decimal number or an integer.
 (Optional) An 'e' or 'E', followed by an integer.
-A decimal number can be split up into these components (in order):
+- A decimal number can be split up into these components (in order):
 
 (Optional) A sign character (either '+' or '-').
 One of the following formats:
